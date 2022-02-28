@@ -1,0 +1,13 @@
+{ 
+  "name": "RainbowTunic", 
+  "version": "1.0.0", 
+  "description": "Rainbowy Tunic", 
+  "main": "RainbowTunic.js", 
+  "author": "Drahsid", 
+  "credits": "", 
+  "license": "MIT", 
+  "core": "OcarinaofTime", 
+  "dry": { 
+    "extends": "./ModLoader64/package-dry.json" 
+  } 
+} 
